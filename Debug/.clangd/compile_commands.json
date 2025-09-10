@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/adc.c"
+   },
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/conversiones.c"
+   },
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/main.c"
+   },
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/millis.c"
+   },
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/pi.c"
+   },
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/pisr.c"
+   },
+   {
+      "directory" : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin\" -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "G:/Mi unidad/ITBA - Agus/ECIVVE/msp430G2/Control_PI_Monopatin/uart.c"
+   }
+]

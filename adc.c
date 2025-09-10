@@ -79,8 +79,13 @@ void adcInit(unsigned char ch_msk)
     ADC10AE0 = ch_msk; // Configure each pin as analog pin
     adc_ch_msk = ch_msk;
 
+    
+	ADC10CTL0 &= ~ ENC;	
+	while (ADC10CTL1 & ADC10BUSY);               // Wait if ADC10 core is active
+	ADC10SA = (unsigned int)adc_dest;
+	ADC10CTL0 |= ENC + ADC10SC;             // convierto la primera vez
+
 	yainit = true;
-    TP_INIT();
 }
 
 

@@ -31,10 +31,6 @@ int main(void)
 
 	P2OUT = 0;
 
-	ADC10CTL0 &= ~ ENC;	
-	while (ADC10CTL1 & ADC10BUSY);               // Wait if ADC10 core is active
-	ADC10SA = (unsigned int)adc_dest;
-	ADC10CTL0 |= ENC + ADC10SC;             // convierto la primera vez
 	__bis_SR_register(CPUOFF + GIE);        // apago la CPU y dejo activadas las interrupciones
 }
 
